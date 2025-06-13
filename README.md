@@ -23,4 +23,5 @@ Modern tasarım ve bildirim sistemleri kullanıcı deneyimini artırır. Ayrıca
 
 # Ekran Gif
 
-![Video Screen1749831472325 (1)](https://github.com/user-attachments/assets/c8e52cfa-e552-47a0-8472-d2c5874681f4)
+
+![Video Screen1749831472325 (1) (1)](https://github.com/user-attachments/assets/10712d2e-fea3-494d-96ea-6d07a0f3a151)
