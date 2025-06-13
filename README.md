@@ -22,3 +22,5 @@ Modern tasarım ve bildirim sistemleri kullanıcı deneyimini artırır. Ayrıca
 * React-toastify: Kullanıcı bildirimleri ve uyarıları için.
 
 # Ekran Gif
+
+![Video Screen1749831472325 (1)](https://github.com/user-attachments/assets/c8e52cfa-e552-47a0-8472-d2c5874681f4)
