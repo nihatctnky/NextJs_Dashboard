@@ -26,8 +26,8 @@
     },
     {
       "id": "4",
-      "name": "Adidas Air Max 270",
-      "category": "Shoes",
+      "name": "Adidas Air Max 275",
+      "category": "Accessories",
       "price": 249.99,
       "stock": 53,
       "description": "Breathable mesh upper, Max Air unit for responsive cushioning.",
@@ -98,28 +98,6 @@
     }
   ],
   "users": [
-    {
-      "id": "2",
-      "name": "Mehmet Kaya",
-      "email": "mehmet.kaya@example.com",
-      "password": "hashed_password_2",
-      "address": {
-        "street": "Cumhuriyet Mah. No: 45",
-        "city": "Ankara",
-        "postal_code": "06010",
-        "country": "Turkey"
-      },
-      "phone": "+90 5X4 2X6 XX89",
-      "orders": [
-        {
-          "order_id": 1003,
-          "product_id": 3,
-          "quantity": 1,
-          "total_price": 599.99,
-          "order_date": "2024-07-22"
-        }
-      ]
-    },
     {
       "id": "3",
       "name": "Zeynep Demir",

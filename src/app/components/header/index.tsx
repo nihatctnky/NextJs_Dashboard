@@ -1,7 +1,7 @@
 import { FC } from "react";
 import Input from "./input";
 import { BiSolidBellRing } from "react-icons/bi";
-import man from "../../assets/images/users.webp";
+import man from "../../assets/images/profil.jpeg";
 import Image from "next/image";
 
 const Header: FC = () => {
@@ -22,7 +22,7 @@ const Header: FC = () => {
           />
 
           <div>
-            <p className="font-semibold">Metin DOĞRU</p>
+            <p className="font-semibold">NiHAT ÇETİNKAYA</p>
             <p>Admin</p>
           </div>
         </div>
